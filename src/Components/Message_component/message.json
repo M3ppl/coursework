@@ -1,0 +1,36 @@
+[
+  
+    {
+        "id": 1,
+        "link": "./img/ava1.png",
+        "link2": "./img/online.png",
+        "title": "Mr. Sheldon Cooper",
+        "subtitle1": "What is wrong with your homework?",
+        "subtitle2": "Just now",
+        "color": "red-border"
+    },
+    {
+        "id": 2,
+        "link": "./img/ava2.png",
+        "link2": "./img/offline.png",
+        "title": "Jason Bourne",
+        "subtitle1": "Hey dude! What’s the plan?",
+        "subtitle2": "2 hourse ago"
+    },
+    {
+        "id": 3,
+        "link": "./img/ava3.png",
+        "link2": "./img/online.png",
+        "title": "Mr.Barney Stinson",
+        "subtitle1": "Have you tried my formula?",
+        "subtitle2": "1 day ago"
+    },
+    {
+        "id": 4,
+        "link": "./img/ava4.png",
+        "link2": "./img/online.png",
+        "title": "Jesse Pinkman",
+        "subtitle1": "I finished it 2 days ago",
+        "subtitle2": "Just now"
+    }
+]

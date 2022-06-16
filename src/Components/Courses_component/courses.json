@@ -1,0 +1,31 @@
+[
+  
+    {
+        "id": 1,
+        "percent": "100%",
+        "link": "./img/Rectangle-1.png",
+        "title": "History of the Earth",
+        "subtitle": "Teacher:Mr.Jason Bourne"
+    },
+    {
+        "id": 2,
+        "percent": "70%",
+        "link": "./img/Rectangle-2.png",
+        "title": "Introduction to Geography",
+        "subtitle": "Teacher : Mr.Barney Stinson"
+    },
+    {
+        "id": 3,
+        "percent": "55%",
+        "link": "./img/Rectangle-3.png",
+        "title": "Math Formative Assessment",
+        "subtitle": "Teacher : Ms.Charlie Theron"
+    },
+    {
+        "id": 4,
+        "percent": "20%",
+        "link": "./img/Rectangle-4.png",
+        "title": "The Special Theory of Relativity",
+        "subtitle": "Teacher : Mr.Matt Damon"
+    }
+]
